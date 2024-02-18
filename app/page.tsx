@@ -24,10 +24,11 @@ export default function Home() {
           </p>
           {/* links learn more/ my projects/Contact Me */}
           <div className="flex-col md:flex-row hidden md:flex gap-5">
-            <Link href="/my-skills"
-              className="rounded-[20px] group relative bg-blue-500 hover:bg-blue-400 px-5 py-3 text-lg text-white max-w-[200px]">
-              About Me
-            </Link>
+          <Link href="/my-skills"
+            className="rounded-[20px] group relative bg-blue-500 hover:bg-blue-400 px-5 py-3 text-lg text-white max-w-[200px]">
+            {'About Me'}
+          </Link>
+
             <Link
               href="/my-projects"
               className="rounded-[20px] group relative bg-blue-500  hover:bg-blue-400 px-5 py-3 text-lg text-white max-w-[200px]"
