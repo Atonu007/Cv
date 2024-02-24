@@ -18,7 +18,7 @@ export default function Home() {
           An energetic engineer with a passion for innovation and
           technology, majoring in computer science and engineering. I
           appreciate working in various environments since it allows me
-          to gather knowledge and get to know different people's
+          to gather knowledge and get to know different people&apos;s
           characteristics. Always willing to take on new tasks. Passionate
           about sharing experiences and encouraging others.
           </p>
